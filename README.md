@@ -1,4 +1,5 @@
 📄 AI Resume Screening & Candidate Ranking System
+
 🚀 Project Overview
 The AI Resume Screening & Candidate Ranking System automates the process of evaluating and ranking resumes based on a given job description. The system uses AI techniques to analyze resumes by extracting text, converting it to numerical vectors, and calculating similarity scores. The ranked results are displayed to the user, saving time and ensuring a more efficient and objective resume screening process.
 
